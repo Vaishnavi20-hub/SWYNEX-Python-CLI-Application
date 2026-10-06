@@ -1,0 +1,17 @@
+[
+    {
+        "category": "Food",
+        "amount": 500.0,
+        "description": "hamburger"
+    },
+    {
+        "category": "food",
+        "amount": 250.0,
+        "description": "dal tadka"
+    },
+    {
+        "category": "Room rent",
+        "amount": 8000.0,
+        "description": "Pay room rent for 2026 yrs"
+    }
+]
